@@ -24,9 +24,10 @@ A modern user management interface with secure authentication and CRUD operation
 ## 🚀 Getting Started
 
 ### **1️⃣ Install Dependencies**
-```bash
 npm install
-2️⃣ Start Development Server
+
+### **2️⃣ Start Development Server**
+```bash
 npm start
 3️⃣ Login with (Demo Credentials)
 Email: eve.holt@reqres.in
