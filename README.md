@@ -27,12 +27,13 @@ A modern user management interface with secure authentication and CRUD operation
 npm install
 
 ### **2️⃣ Start Development Server**
-```bash
 npm start
-3️⃣ Login with (Demo Credentials)
+
+### **3️⃣ Login with (Demo Credentials)**
 Email: eve.holt@reqres.in
 Password: cityslicka
-📂 Project Structure
+
+### **📂 Project Structure**
 src/
 ├── components/      # React components
 ├── services/        # API service layer
