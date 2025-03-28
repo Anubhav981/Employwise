@@ -33,13 +33,7 @@ npm start
 <p>Email: eve.holt@reqres.in</p>
 <p>Password: cityslicka</p>
 
-### **📂 Project Structure**
 
-<p>src/</p>
-<p>├── <b>components/</b> - React components</p>
-<p>├── <b>services/</b> - API service layer</p>
-<p>├── <b>App.js</b> - Main application router</p>
-<p>└── <b>index.js</b> - Entry point</p>
 
 
 
