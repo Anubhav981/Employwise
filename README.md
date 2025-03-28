@@ -30,15 +30,16 @@ npm install
 npm start
 
 ### **3️⃣ Login with (Demo Credentials)**
-Email: eve.holt@reqres.in
-Password: cityslicka
+<p>Email: eve.holt@reqres.in</p>
+<p>Password: cityslicka</p>
 
 ### **📂 Project Structure**
-src/
-├── components/      # React components
-├── services/        # API service layer
-├── App.js           # Main application router
-└── index.js         # Entry point
+
+<p>src/</p>
+<p>├── <b>components/</b> - React components</p>
+<p>├── <b>services/</b> - API service layer</p>
+<p>├── <b>App.js</b> - Main application router</p>
+<p>└── <b>index.js</b> - Entry point</p>
 
 
 
